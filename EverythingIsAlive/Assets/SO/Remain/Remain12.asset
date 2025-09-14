@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RemainID: 12
   RemainName: "\u82B1\u74E3"
-  BodyID: 0
+  BodyID: 1
   RemainDesc: "\u4E00\u7247\u7C89\u8272\u7684\u90C1\u91D1\u9999\u82B1\u74E3\u3002"
-  RemainImage: {fileID: 0}
-  RemainICON: {fileID: 0}
+  RemainImage: {fileID: 21300000, guid: 5da5af33458ada54bac29619bb0bff50, type: 3}
+  RemainICON: {fileID: 21300000, guid: f4fd39cbb65f40344bcd32250fe69078, type: 3}
